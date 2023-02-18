@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/zanetasochon"><img src="https://api.daily.dev/devcards/cda83d61830e4553a4292794383bf8a2.png?r=mpl" width="400" alt="Żaneta Sochoń's Dev Card"/></a>
+<a href="https://app.daily.dev/zanetasochon"><img src="https://api.daily.dev/devcards/cda83d61830e4553a4292794383bf8a2.png?r=mpl" width="200" alt="Żaneta Sochoń's Dev Card"/></a>
 
 <!--
 **zanetasochon/zanetasochon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
