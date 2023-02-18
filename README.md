@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://api.daily.dev/devcards/cda83d61830e4553a4292794383bf8a2.png?r=mpl
 <!--
 **zanetasochon/zanetasochon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
