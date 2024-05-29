@@ -21,7 +21,6 @@ I'm driven to advance my career towards becoming a full-stack engineer, continuo
 ---
 
 ![Żaneta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanetasochon&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanetasochon&layout=compact&theme=radical)
 
 ---
