@@ -12,7 +12,7 @@ I'm an experienced frontend developer at T-Mobile Polska S.A. Every day, I harne
 
 - Mastering frontend development with React, Next.js, MUI, OpenAPI, and Zod.
 - Enhancing my skills in UX/UI design to create seamless and aesthetically pleasing interfaces.
-- 
+
 
 ## 🚀 Future Aspirations
 
