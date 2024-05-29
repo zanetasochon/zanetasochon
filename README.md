@@ -11,8 +11,10 @@ I'm an experienced frontend developer at T-Mobile Polska S.A. Every day, I harne
 - Expanding my expertise towards becoming a full-stack engineer.
 
 🚀 **Future Aspirations**
+
 I'm driven to advance my career towards becoming a full-stack engineer, continuously learning new technologies and taking on exciting challenges that push my boundaries.
 
 🌐 **Get in Touch**
+
 Thanks for stopping by! I'm always open to discussing new ideas, collaborations, and opportunities. Don't hesitate to reach out!
 
