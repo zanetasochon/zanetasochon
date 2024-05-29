@@ -11,18 +11,31 @@ I'm an experienced frontend developer at T-Mobile Polska S.A. Every day, I harne
 
 - Mastering frontend development with React, Next.js, MUI, OpenAPI, and Zod.
 - Enhancing my skills in UX/UI design to create seamless and aesthetically pleasing interfaces.
-- Expanding my expertise towards becoming a full-stack engineer.
-
-
+- 
 
 ## 🚀 Future Aspirations
 
 I'm driven to advance my career towards becoming a full-stack engineer, continuously learning new technologies and taking on exciting challenges that push my boundaries.
 
+---
+
+![Żaneta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanetasochon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanetasochon&layout=compact&theme=radical)
+
+---
+
+🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 ## 🌐 Get in Touch
 
 Thanks for stopping by! I'm always open to discussing new ideas, collaborations, and opportunities. Don't hesitate to reach out!
-
 
